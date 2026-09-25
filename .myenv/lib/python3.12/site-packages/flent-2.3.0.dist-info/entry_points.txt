@@ -1,0 +1,5 @@
+[console_scripts]
+flent = flent:run_flent
+
+[gui_scripts]
+flent-gui = flent:run_flent_gui
